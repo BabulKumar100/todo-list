@@ -28,11 +28,11 @@ todo-list-project/
 
 ## Screenshot 
 
-![todo-UI.png](https://github.com/BabulKumar100/todo-list/blob/db62b5940a4bc8a4038fec29cdd6f214c5a81165/todo-UI.png)
 ![todo-html.png](https://github.com/BabulKumar100/todo-list/blob/db62b5940a4bc8a4038fec29cdd6f214c5a81165/todo-html.png)
 ![todo-css1.png](https://github.com/BabulKumar100/todo-list/blob/db62b5940a4bc8a4038fec29cdd6f214c5a81165/todo-css1.png)
 ![todo-css2.png](https://github.com/BabulKumar100/todo-list/blob/db62b5940a4bc8a4038fec29cdd6f214c5a81165/todo-css2.png)
 ![todo-js.png](https://github.com/BabulKumar100/todo-list/blob/db62b5940a4bc8a4038fec29cdd6f214c5a81165/todo-js.png)
+![todo-UI.png](https://github.com/BabulKumar100/todo-list/blob/db62b5940a4bc8a4038fec29cdd6f214c5a81165/todo-UI.png)
 
 ## How to Use
 
